@@ -1,1 +1,3 @@
 learning git 
+
+Add another folder to commit or push
