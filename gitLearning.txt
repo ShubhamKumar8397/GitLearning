@@ -1,3 +1,5 @@
 learning git 
 
 Add another folder to commit or push
+
+checking git pushing from terminal
